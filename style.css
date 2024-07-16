@@ -111,7 +111,7 @@ html, body {
     height: 40px;
     text-align: right;
     position: relative;
-    left: 0px;
+    left: -30px;
     top: 10px;
     /* background-color: black; */
     color: white;
@@ -121,7 +121,7 @@ html, body {
     width: 120px;
     text-align: left;
     position: relative;
-    left: 20px;
+    left: -10px;
     /* top: 5.5px; */
     /* height: 40px; */
     border: 2px solid transparent;
@@ -154,7 +154,7 @@ html, body {
     width: 63px;
     text-align: left;
     position: relative;
-    left: 40px;
+    left: 0px;
     /* top: 6px; */
     /* height: 40px; */
     border: 2px solid transparent;
@@ -177,9 +177,9 @@ html, body {
 .box7 {
     display: flex;
     position: relative;
-    left: 105px;
-    top: 8px;
-    height: 50px;
+    left: 9px;
+    top: 2px;
+    height: 40px;
     width: 70px;
     align-items: center;
     border: 2px solid transparent;
